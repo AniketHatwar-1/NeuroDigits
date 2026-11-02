@@ -14,11 +14,7 @@ A beginner-friendly machine-learning practical using a TensorFlow/Keras feedforw
 - Internet connection required for the initial dependency installation.
 
 ## Run for the first time
-1. Extract the ZIP to a short path such as `C:\NeuroDigits`.
-2. Double-click `setup.bat` and wait for it to finish.
-3. Double-click `train.bat` and wait for training to create `digit_recognizer.keras`.
-4. Double-click `run.bat`.
-5. Open `http://localhost:8501` if the browser does not open automatically.
+link : https://neurodigits-avt.streamlit.app/
 
 ## Later use
 After setup and training have completed successfully, double-click only `run.bat`. Do not delete `.venv314` or `digit_recognizer.keras`.

@@ -2,6 +2,9 @@
 
 A beginner-friendly machine-learning practical using a TensorFlow/Keras feedforward neural network and Streamlit.
 
+## Run for the first time
+link : https://neurodigits-avt.streamlit.app/
+
 ## Features
 - Draw a handwritten digit on the canvas (the only input method).
 - Display the predicted digit and confidence percentage.
@@ -12,12 +15,6 @@ A beginner-friendly machine-learning practical using a TensorFlow/Keras feedforw
 - Windows 64-bit and Python 3.14.
 - Setup installs TensorFlow 2.22.0rc0 (a pre-release build used here for Python 3.14 compatibility) and the remaining dependencies.
 - Internet connection required for the initial dependency installation.
-
-## Run for the first time
-link : https://neurodigits-avt.streamlit.app/
-
-## Later use
-After setup and training have completed successfully, double-click only `run.bat`. Do not delete `.venv314` or `digit_recognizer.keras`.
 
 ## Model
 - Input: 784 normalized pixel values (28 × 28).

@@ -1,0 +1,7 @@
+tensorflow==2.22.0rc0
+streamlit>=1.36,<2.0
+streamlit-drawable-canvas>=0.9.3
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.3
+Pillow>=10.0
